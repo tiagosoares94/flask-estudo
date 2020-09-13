@@ -25,3 +25,6 @@ ___
 3. Execute o Gunicorn
     * gunicorn --bind 0.0.0.0:5000 wsgi:app
     * Acesse: http://0.0.0.0:5000
+
+4. Vídeo de configuração do ambiente:
+https://www.youtube.com/watch?v=CpF3OYOCMPo
